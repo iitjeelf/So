@@ -1,0 +1,13 @@
+{
+  "name": "Sample LFJC Exam",
+  "date": "10/11/2025",
+  "durationMin": 10,
+  "marksPerQuestion": 1,
+  "negativeMark": -0.25,
+  "files": [
+    {"section":"Mathematics","data":"assets/sample-images/q1.png"},
+    {"section":"Mathematics","data":"assets/sample-images/q2.png"},
+    {"section":"Physics","data":"assets/sample-images/q3.png"}
+  ],
+  "key":["A","B","C"]
+}
